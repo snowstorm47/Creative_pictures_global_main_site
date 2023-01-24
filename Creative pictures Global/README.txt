@@ -1,11 +1,9 @@
 
 TITLE: 
-Roxy - Bootstrap 4 template built by GetTemplates.co
+Creative Pictures Global Site
 
 AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co and FreeHTML5.co
-
-Websites: https://gettemplates.co https://freehtml5.co/
+DESIGNED & DEVELOPED by Abel Endeshaw
 
 
 CREDITS:
