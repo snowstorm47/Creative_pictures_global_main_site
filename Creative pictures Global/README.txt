@@ -28,7 +28,3 @@ http://markdalgleish.com/projects/stellar.js/
 
 Lightcase
 https://cornel.bopp-art.com/lightcase/
-
-Demo Images:
-http://unsplash.com
-
