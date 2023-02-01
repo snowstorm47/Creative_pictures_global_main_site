@@ -191,67 +191,7 @@ section {
       bottom: 0;
       /* z-index: -1; */
     }
-    /* .vid1{
-     width: 50%;
-     height: 50%;
-     object-fit:contain;
-     position: relative; 
-     left: 0;
-     right: 0;
-     top: 0;
-     bottom: 0;
-    }
-    .vid2{
-      width: 50%;
-      height: 50%;
-      object-fit: contain;
-      position: relative; 
-      left: 0;
-      right: 0;
-      top: 0;
-      bottom: 0;
-     }
-     .vid3{
-      width: 50%;
-      height: 50%;
-      object-fit: contain;
-      position: relative; 
-      left: 0;
-      right: 0;
-      top: 0;
-      bottom: 0;
-     }
-     .vid4{
-      width: 50%;
-      height: 50%;
-      object-fit: contain;
-      position: relative; 
-      left: 0;
-      right: 0;
-      top: 0;
-      bottom: 0;
-     }
-     .vid5{
-      width: 50%;
-      height: 50%;
-      object-fit: contain;
-      position: relative; 
-      left: 0;
-      right: 0;
-      top: 0;
-      bottom: 0;
-     }
-     .vid6{
-      width: 50%;
-      height: 50%;
-      object-fit: contain;
-      position: relative; 
-      left: 0;
-      right: 0;
-      top: 0;
-      bottom: 0;
-     } */
-
+    
   .jumbotron h1 {
     line-height: .9;
     font-weight: bold;
@@ -762,8 +702,9 @@ section {
   display: none; }
 
 .client-slider .client-item {
-  align-items: center;
-  padding: 0 40px; }
+  align-items:center;
+  padding: 0 40px; 
+}
 
 /*=====  End of CLIENT  ======*/
 /*==================================
@@ -809,6 +750,13 @@ section {
       .featurevid{
         height: 100%;
         width: 100%;
+      }
+    }
+
+    @media(max-width:535px){
+      .client-item{
+        height: 513px;
+        width: 303px;
       }
     }
 
